@@ -1,0 +1,16 @@
+version: 1.8.4
+
+id: anything-llm
+name: AnythingLLM
+description: Plateforme open-source no-code pour exploiter des LLM avec des documents
+tagline: Connecte des documents à ton LLM local
+developer: Mintplex Labs
+website: https://useanything.com
+repo: https://github.com/Mintplex-Labs/anything-llm
+support: https://github.com/Mintplex-Labs/anything-llm/issues
+category: AI
+type: app
+releaseNotes: Première intégration sur Umbrel
+port: 3001
+permissions:
+  - STORAGE
